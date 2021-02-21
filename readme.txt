@@ -1,61 +1,63 @@
-=== WhatsApp Contact Form 7 Integration ===
-Contributors: vnbenny
-Donate link: http://www.wassame.com/plugins/whatsapp-contact-form-7/?source=wordpress-wacf7
-Tags: form, forms, contact form, whatsapp, contact form 7, forward, mobile, plugin, integration
-Requires at least: 3.0.1
-Tested up to: 3.9.1
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Ir para o conteúdo
+Pesquise ou pule para ...
+=== Integração com o formulário de contato 7 do WhatsApp ===
+Colaboradores: theusn
+Link de doação: jaja vai ter
+Tags: formulário, formulários, formulário de contato, whatsapp, formulário de contato 7, encaminhar, móvel, plugin, integração
+Requer pelo menos: 3.0.1
+Testado até: 3.9.1
+Tag estável: 1.0
+Licença: GPLv2 ou posterior
+URI de licença: vo po
 
-== Description ==
+== Descrição ==
 
-WhatsApp Contact Form 7 Integration is a WhatsApp notification plugin for WordPress that makes it really simple to send your Contact Form 7 forms directly to your WhatsApp account.
+O WhatsApp Contact Form 7 Integration é um plugin de notificação do WhatsApp para WordPress que torna muito simples enviar seus formulários de Contact Form 7 diretamente para sua conta do WhatsApp.
 
-In the free version, you can insert your WhatsApp credentials, every time someone contacts you through Contact From 7, it will send a WhatsApp message to a mobile number you specify notifying you instantly wherever you are!
+Na versão gratuita, você pode inserir suas credenciais do WhatsApp, toda vez que alguém entrar em contato com você através do Contact From 7, ele enviará uma mensagem do WhatsApp para um número de celular que você especificar notificando-o instantaneamente de onde você estiver!
 
-= Features =
+= Recursos =
 
-* Allow your users to send you a WhatsApp message using a Contact Form 7 form.
-* Get notified instantly!
-* first name, last name, email, subject and message all get forwarded for you to read directly on WhatsApp without having to log into your mail. (Pro version)
-* Super easy to set-up!
+* Permita que seus usuários enviem uma mensagem do WhatsApp usando um formulário do Formulário de Contato 7.
+* Seja notificado instantaneamente!
+* nome, sobrenome, e-mail, assunto e mensagem são encaminhados para você ler diretamente no WhatsApp sem ter que se conectar ao seu e-mail. (Versão Pro)
+* Super fácil de configurar!
 
 
-== Installation ==
+== Instalação ==
 
-This section describes how to install the plugin and get it working.
+Esta seção descreve como instalar o plug-in e fazê-lo funcionar.
 
-1. Upload the `whatsapp-contact-form-7` directory to your `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Faça upload do diretório `whatsapp-contact-form-7` para seu diretório` / wp-content / plugins / `
+1. Ative o plugin através do menu 'Plugins' no WordPress
 
-== Screenshots ==
+== Capturas de tela ==
 
-2. **Free**
+2. ** Grátis **
 
-== Frequently Asked Questions ==
+== Perguntas mais frequentes ==
 
-= How can I obtain my WhatsApp credentials? =
+= Como posso obter minhas credenciais do WhatsApp? =
 
-Search for WART on github or use the tool on Wassame http://wassame.com/tool/register-whatsapp-account/ 
+Pesquise WART no github ou use a ferramenta no Wassame http://wassame.com/tool/register-whatsapp-account/
 
-= Why is the system not sending me a WhatsApp when I submit the form? =
+= Por que o sistema não está me enviando um WhatsApp quando eu envio o formulário? =
 
-You should double check your WhatsApp credentials are correct, if the contact form fails to send, your credentials are probably incorrect! - You can always do a login check to see if your account is still working.
+Você deve verificar se suas credenciais do WhatsApp estão corretas, se o formulário de contato não for enviado, provavelmente suas credenciais estão incorretas! - Você sempre pode fazer uma verificação de login para ver se sua conta ainda está funcionando.
 
-= How do I make a login check of my WhatsApp account? =
+= Como faço uma verificação de login da minha conta do WhatsApp? =
 
-You can use the free to use login checker tool hosted on Wassame: http://wassame.com/tool/whatsapp-account-login-checker/, if you account failed to login, try using the block checker tool to make sure its not blocked by WhatsApp.
+Você pode usar a ferramenta de verificação de login gratuita hospedada no Wassame: http://wassame.com/tool/whatsapp-account-login-checker/, se sua conta falhou ao fazer o login, tente usar a ferramenta de verificação de bloqueio para ter certeza de que é não bloqueado pelo WhatsApp.
 
-= How can I debug? =
+= Como posso depurar? =
 
-You should activate error logging on you Wordpress installation, When you use the plugin it will log the errors for you.
+Você deve ativar o registro de erros na instalação do Wordpress. Ao usar o plugin, ele registrará os erros para você.
 
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Lançamento inicial
 
 = 1.1.0 =
-* Major update, new design, error logging and most functionality changed
+* Atualização principal, novo design, registro de erros e a maioria das funcionalidades alteradas
